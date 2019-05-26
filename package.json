@@ -1,0 +1,17 @@
+{
+  "name": "@laurito/lit-90button",
+  "version": "0.0.1",
+  "flat": true,
+  "description": "Example Lit 90s button",
+  "main": "index.html",
+  "author": "Walter Laurito",
+  "dependencies": {
+    "lit-element": "^2.0.0-rc.5"
+  },
+  "resolutions": {
+    "@webcomponents/webcomponentsjs": "1.0.20"
+  },
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "^1.3.0"
+  }
+}
